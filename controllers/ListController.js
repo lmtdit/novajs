@@ -1,7 +1,7 @@
 module.exports = {
     /* /list.html */
     get_index: function(req, res) {
-        res.send("List page test");
+        res.send("List page testdsdsds");
     },
     /*post /list */
     post_index: function(req, res) {

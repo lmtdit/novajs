@@ -5,7 +5,7 @@
  * @author pangjg
  * @date 2015-08-20
  */
-var Controllers, Path, app, bodyParser, cookieParser, ejs, express, favicon, http, port, router, server, session, setting, viewPath;
+var Controller, Path, app, bodyParser, cookieParser, ejs, express, favicon, http, port, router, server, session, setting;
 
 Path = require('path');
 
@@ -23,7 +23,7 @@ cookieParser = require('cookie-parser');
 
 bodyParser = require('body-parser');
 
-Controllers = require('./lib/controller');
+Controller = require('./lib/controller');
 
 setting = require('./lib/setting');
 
@@ -33,15 +33,7 @@ app.use(favicon());
 
 app.use(cookieParser());
 
-app.use(bodyParser());
-
-app.use(bodyParser.json());
-
-app.use(bodyParser.urlencoded());
-
-viewPath = setting.viewPath;
-
-app.set('views', Path.join(__dirname, viewPath));
+app.set('views', Path.join(__dirname, setting.tplPath));
 
 app.engine('.html', ejs.__express);
 
@@ -51,7 +43,7 @@ router = express.Router();
 
 app.use(router);
 
-Controllers.setDirectory(__dirname + '/controllers').bind(router);
+Controller.setDirectory(__dirname + '/controllers').bind(router);
 
 
 /**

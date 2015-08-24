@@ -1,7 +1,7 @@
 ###*
-# 服务入口 app.js
-# @author pangjg
-# @date 2015-08-20
+ * 服务入口 app.js
+ * @author pangjg
+ * @date 2015-08-20
 ###
 
 # BASE SETUP
@@ -15,8 +15,10 @@ favicon         = require('static-favicon')
 cookieParser    = require('cookie-parser')
 bodyParser      = require('body-parser')
 # logger          = require('logger')
-Controllers     = require('./lib/controller')
+Controller     = require('./lib/controller')
 setting         = require('./lib/setting')
+
+# console.log setting
 
 # 创建express实例
 app = express()
@@ -24,14 +26,13 @@ app = express()
 # 装载中间件  
 app.use(favicon())
 app.use(cookieParser())
-app.use(bodyParser())
-app.use(bodyParser.json())
-app.use(bodyParser.urlencoded())
+# app.use(bodyParser())
+# app.use(bodyParser.json())
+# app.use(bodyParser.urlencoded())
 # app.use(logger('dev'))
 
 # 模板引擎设置
-viewPath = setting.viewPath
-app.set('views', Path.join(__dirname, viewPath))
+app.set('views', Path.join(__dirname, setting.tplPath))
 app.engine('.html', ejs.__express)
 app.set('view engine', 'html')
 
@@ -39,8 +40,7 @@ app.set('view engine', 'html')
 # 设置controllers
 router = express.Router();
 app.use(router)
-Controllers.setDirectory( __dirname + '/controllers').bind(router)
-
+Controller.setDirectory( __dirname + '/controllers').bind(router)
 
 ###*
  * error handler

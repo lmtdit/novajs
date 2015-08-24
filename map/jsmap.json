@@ -1,0 +1,466 @@
+{
+  "_lib/animation.js": {
+    "hash": "0caf3da2744c35b9537b602090beec00",
+    "distname": "_lib/animation.0caf3da274.js"
+  },
+  "_lib/ccweditor.js": {
+    "hash": "973051d4c49e237eeeb76092662fb2a5",
+    "distname": "_lib/ccweditor.973051d4c4.js"
+  },
+  "_lib/countdown.js": {
+    "hash": "f10e042a6ea0d50e3fa951a2c194eaa8",
+    "distname": "_lib/countdown.f10e042a6e.js"
+  },
+  "_lib/cubicbezier.js": {
+    "hash": "5f7848d79b60062bcd9e94f5a0cfaba0",
+    "distname": "_lib/cubicbezier.5f7848d79b.js"
+  },
+  "_lib/dialog.js": {
+    "hash": "2de756b6f59716d125ccded4bbda5911",
+    "distname": "_lib/dialog.2de756b6f5.js"
+  },
+  "_lib/httpurl.js": {
+    "hash": "fcdb7c9c2e0d9f6f7c0f4fae5ecd5df0",
+    "distname": "_lib/httpurl.fcdb7c9c2e.js"
+  },
+  "_lib/infinitescroll.js": {
+    "hash": "b19af57ef9688a266acb6d00f5a82a76",
+    "distname": "_lib/infinitescroll.b19af57ef9.js"
+  },
+  "_lib/notification.js": {
+    "hash": "121467885cbd02c87bc87eb207da00d9",
+    "distname": "_lib/notification.121467885c.js"
+  },
+  "_lib/sDialog.js": {
+    "hash": "7e3a5a4dce5ce356ca4988bfb6764feb",
+    "distname": "_lib/sDialog.7e3a5a4dce.js"
+  },
+  "_lib/scroll.js": {
+    "hash": "91a45396a903f45ece8cf13cf2edb699",
+    "distname": "_lib/scroll.91a45396a9.js"
+  },
+  "_lib/slider.js": {
+    "hash": "deaf4c181ceed287805a743b8f72ae87",
+    "distname": "_lib/slider.deaf4c181c.js"
+  },
+  "_lib/sticky/checkFixed.js": {
+    "hash": "e25d3cdb3568bd49f50e801add4de923",
+    "distname": "_lib/sticky/checkFixed.e25d3cdb35.js"
+  },
+  "_lib/sticky/fixedsticky.js": {
+    "hash": "85d180f58268eebca10ce4c1eefed7db",
+    "distname": "_lib/sticky/fixedsticky.85d180f582.js"
+  },
+  "_lib/storage.js": {
+    "hash": "3cdb5b6b68d1580698ba90442abf3031",
+    "distname": "_lib/storage.3cdb5b6b68.js"
+  },
+  "_lib/swipe.js": {
+    "hash": "121a7249e24e74a080743a94152ec208",
+    "distname": "_lib/swipe.121a7249e2.js"
+  },
+  "_lib/swiper.js": {
+    "hash": "a0689013d148f7e37015e69dd9a9a557",
+    "distname": "_lib/swiper.a0689013d1.js"
+  },
+  "_lib/tabheader.js": {
+    "hash": "0aebd1ab6cccdec5961b0953b5d9258f",
+    "distname": "_lib/tabheader.0aebd1ab6c.js"
+  },
+  "_lib/touch.js": {
+    "hash": "9319b24116e5c796396159d24d4b9c30",
+    "distname": "_lib/touch.9319b24116.js"
+  },
+  "_lib/zepto.fullpage.js": {
+    "hash": "9a3be8ad8638b90c888127490a958529",
+    "distname": "_lib/zepto.fullpage.9a3be8ad86.js"
+  },
+  "_mods/address_list.js": {
+    "hash": "9e9d838ecb26961652d541c6b68f8019",
+    "distname": "_mods/address_list.9e9d838ecb.js"
+  },
+  "_mods/address_opera.js": {
+    "hash": "369bb09bc75239b90c95760b613ff8a1",
+    "distname": "_mods/address_opera.369bb09bc7.js"
+  },
+  "_mods/address_opera_edit.js": {
+    "hash": "b96fe4f2c13f1be55ba709e16a21552a",
+    "distname": "_mods/address_opera_edit.b96fe4f2c1.js"
+  },
+  "_mods/article_class.js": {
+    "hash": "c31103d233f6c115ad7712da2fefc179",
+    "distname": "_mods/article_class.c31103d233.js"
+  },
+  "_mods/article_list.js": {
+    "hash": "ef540dab9e73a91e5c8752c421d7d04c",
+    "distname": "_mods/article_list.ef540dab9e.js"
+  },
+  "_mods/article_show.js": {
+    "hash": "0a1bc6de1b0eae1177424da0fe985035",
+    "distname": "_mods/article_show.0a1bc6de1b.js"
+  },
+  "_mods/buy_step1.js": {
+    "hash": "d312e919382f9f800d598da8e08d16f1",
+    "distname": "_mods/buy_step1.d312e91938.js"
+  },
+  "_mods/cart-list.js": {
+    "hash": "b3108e66e6b41bf2ef61d49b5302bec4",
+    "distname": "_mods/cart-list.b3108e66e6.js"
+  },
+  "_mods/category-first-list.js": {
+    "hash": "bfcc52229790493d0ec99521636a043c",
+    "distname": "_mods/category-first-list.bfcc522297.js"
+  },
+  "_mods/category-second-list.js": {
+    "hash": "0a0881e57ed8ce7dde11b6ffc57e2878",
+    "distname": "_mods/category-second-list.0a0881e57e.js"
+  },
+  "_mods/common-top.js": {
+    "hash": "f6603039b0058e5f1f2721aca91f43a5",
+    "distname": "_mods/common-top.f6603039b0.js"
+  },
+  "_mods/common.js": {
+    "hash": "92203c4c1ddd92d2b024ed208518e6ed",
+    "distname": "_mods/common.92203c4c1d.js"
+  },
+  "_mods/favorites.js": {
+    "hash": "3f95c4e74356c430ab4d91bd8e2c094e",
+    "distname": "_mods/favorites.3f95c4e743.js"
+  },
+  "_mods/gotop.js": {
+    "hash": "d0de5c3cd166d30396537b33c11854df",
+    "distname": "_mods/gotop.d0de5c3cd1.js"
+  },
+  "_mods/loading.js": {
+    "hash": "7a1e9bf28aa3006ade251206edeb2b60",
+    "distname": "_mods/loading.7a1e9bf28a.js"
+  },
+  "_mods/login.js": {
+    "hash": "778ab9c483046f9c01d906a05405c183",
+    "distname": "_mods/login.778ab9c483.js"
+  },
+  "_mods/loginRegister/common.js": {
+    "hash": "4d5ffe2f404ee5b87d0ac890a94ce7d5",
+    "distname": "_mods/loginRegister/common.4d5ffe2f40.js"
+  },
+  "_mods/loginRegister/findpwd.js": {
+    "hash": "c266125a67a4d0cd7c36eeca46e7dc14",
+    "distname": "_mods/loginRegister/findpwd.c266125a67.js"
+  },
+  "_mods/loginRegister/login.js": {
+    "hash": "4ce51ed9ecf04f388e8d28f81ac2c7a5",
+    "distname": "_mods/loginRegister/login.4ce51ed9ec.js"
+  },
+  "_mods/loginRegister/register.js": {
+    "hash": "c2df74561a8218708c0b0ce894d5c84a",
+    "distname": "_mods/loginRegister/register.c2df74561a.js"
+  },
+  "_mods/member.js": {
+    "hash": "c193f615d792d722553bacbfd4319bbc",
+    "distname": "_mods/member.c193f615d7.js"
+  },
+  "_mods/order_delivery.js": {
+    "hash": "ce0c09cffb12b84551c8bf447b302c5b",
+    "distname": "_mods/order_delivery.ce0c09cffb.js"
+  },
+  "_mods/order_list.js": {
+    "hash": "d67d2d57e55b72164b9525308abe65eb",
+    "distname": "_mods/order_list.d67d2d57e5.js"
+  },
+  "_mods/product_detail.js": {
+    "hash": "b908889a2f86c5cef943da6bd302734d",
+    "distname": "_mods/product_detail.b908889a2f.js"
+  },
+  "_mods/product_info.js": {
+    "hash": "590ed2ddab23e4bb937643c1d88aad45",
+    "distname": "_mods/product_info.590ed2ddab.js"
+  },
+  "_mods/product_info_app.js": {
+    "hash": "a2dc027463bb7222f5d40fa55447ffe2",
+    "distname": "_mods/product_info_app.a2dc027463.js"
+  },
+  "_mods/product_list.js": {
+    "hash": "fc9be92c40b87d71b7d643e94a79f2e4",
+    "distname": "_mods/product_list.fc9be92c40.js"
+  },
+  "_mods/register.js": {
+    "hash": "f927895af6951e64674e314f2c58228e",
+    "distname": "_mods/register.f927895af6.js"
+  },
+  "_mods/shareTips.js": {
+    "hash": "6630615c87e57b28ddeacaedf067cd45",
+    "distname": "_mods/shareTips.6630615c87.js"
+  },
+  "_mods/showBrowserTips.js": {
+    "hash": "3b6679437a73d63af4758c270575eb6c",
+    "distname": "_mods/showBrowserTips.3b6679437a.js"
+  },
+  "_mods/store.js": {
+    "hash": "817e0b5c3a4d3a655bb1abd58a084b84",
+    "distname": "_mods/store.817e0b5c3a.js"
+  },
+  "_mods/timer.js": {
+    "hash": "008ef745c83270aa07b6e1e28ce1d0aa",
+    "distname": "_mods/timer.008ef745c8.js"
+  },
+  "_mods/view_list.js": {
+    "hash": "88a4eef3107b9ea171229e66cee4fdf3",
+    "distname": "_mods/view_list.88a4eef310.js"
+  },
+  "_mods/voucher_list.js": {
+    "hash": "d807f75f27e95dc35b22c0946e16cd8d",
+    "distname": "_mods/voucher_list.d807f75f27.js"
+  },
+  "_mods/vr_buy_step1.js": {
+    "hash": "459900ed3ac199bf656948da91c7e9c3",
+    "distname": "_mods/vr_buy_step1.459900ed3a.js"
+  },
+  "_mods/vr_order_indate_code_list.js": {
+    "hash": "61fbc023d2af35e3bb314d27fadd0ef9",
+    "distname": "_mods/vr_order_indate_code_list.61fbc023d2.js"
+  },
+  "_mods/vr_order_list.js": {
+    "hash": "03c8fc07123f5a08aa49373ed7916abd",
+    "distname": "_mods/vr_order_list.03c8fc0712.js"
+  },
+  "_tpl/addressEdit.js": {
+    "hash": "1447d4f54dbe8056ba387eee9d6f2052",
+    "distname": "_tpl/addressEdit.1447d4f54d.js"
+  },
+  "_tpl/addressList.js": {
+    "hash": "26f97f3db041ffe529b5438e46abed05",
+    "distname": "_tpl/addressList.26f97f3db0.js"
+  },
+  "_tpl/bouns.js": {
+    "hash": "25c43361ef5ffb6b5cbf8016a3b7d3e4",
+    "distname": "_tpl/bouns.25c43361ef.js"
+  },
+  "_tpl/buyStep.js": {
+    "hash": "a266d68089070ea21958001db69a8b9f",
+    "distname": "_tpl/buyStep.a266d68089.js"
+  },
+  "_tpl/cart.js": {
+    "hash": "c7cb29c9cb8f6cd8679c3f85a61732ed",
+    "distname": "_tpl/cart.c7cb29c9cb.js"
+  },
+  "_tpl/common.js": {
+    "hash": "255382b56d299e6f8a394b101c6bc297",
+    "distname": "_tpl/common.255382b56d.js"
+  },
+  "_tpl/global.js": {
+    "hash": "ab1c529873933948098420d633881a57",
+    "distname": "_tpl/global.ab1c529873.js"
+  },
+  "_tpl/index.js": {
+    "hash": "91ab875b32a1acd856b443c748599b77",
+    "distname": "_tpl/index.91ab875b32.js"
+  },
+  "_tpl/list.js": {
+    "hash": "a9f3e48d59b8512c20338c4965487e5b",
+    "distname": "_tpl/list.a9f3e48d59.js"
+  },
+  "_tpl/member.js": {
+    "hash": "c2c6a8f48d21292b4f48d6472b5cca39",
+    "distname": "_tpl/member.c2c6a8f48d.js"
+  },
+  "_tpl/myBounsList.js": {
+    "hash": "02f6f8d3720b007e88e44f373b249788",
+    "distname": "_tpl/myBounsList.02f6f8d372.js"
+  },
+  "_tpl/orderDetail.js": {
+    "hash": "10077019ea02242f1e9bebb0cdaab9cb",
+    "distname": "_tpl/orderDetail.10077019ea.js"
+  },
+  "_tpl/productDetail.js": {
+    "hash": "f6c57632a4c103a392ef5de30061847a",
+    "distname": "_tpl/productDetail.f6c57632a4.js"
+  },
+  "_tpl/swiper.js": {
+    "hash": "644a97e0850980d9fb6f08c8a6977715",
+    "distname": "_tpl/swiper.644a97e085.js"
+  },
+  "_tpl/swipeslide.js": {
+    "hash": "ed3a925b404ab24b44e5e083311b95e7",
+    "distname": "_tpl/swipeslide.ed3a925b40.js"
+  },
+  "_utils/countdown.js": {
+    "hash": "1b26e5fa6dda067eeb664c12726cd0e6",
+    "distname": "_utils/countdown.1b26e5fa6d.js"
+  },
+  "_utils/fontRem.js": {
+    "hash": "da64f6611cd4c30fb14ba95e6d2fea42",
+    "distname": "_utils/fontRem.da64f6611c.js"
+  },
+  "_utils/func.js": {
+    "hash": "0fcbd728ac8279eedab84b3121734b69",
+    "distname": "_utils/func.0fcbd728ac.js"
+  },
+  "_utils/newProxy.js": {
+    "hash": "e91eddb3f133c9c336f76ee3ce4eae47",
+    "distname": "_utils/newProxy.e91eddb3f1.js"
+  },
+  "_utils/payWay.js": {
+    "hash": "9081c5b97051daf3f04c12a047a4da97",
+    "distname": "_utils/payWay.9081c5b970.js"
+  },
+  "_utils/validate-extra.js": {
+    "hash": "ce007bf529ab3c700fc0d944a2f1f1fc",
+    "distname": "_utils/validate-extra.ce007bf529.js"
+  },
+  "_utils/wxGetSign.js": {
+    "hash": "d51fa92220ce911356cf02c7ef7c2ef3",
+    "distname": "_utils/wxGetSign.d51fa92220.js"
+  },
+  "_utils/wxJsSDK.js": {
+    "hash": "4e30bc3eb1dcf76c74e6faa1dc00270b",
+    "distname": "_utils/wxJsSDK.4e30bc3eb1.js"
+  },
+  "_utils/wxLogin.js": {
+    "hash": "86fcc7af3e2e9b29883d348a7a633ee8",
+    "distname": "_utils/wxLogin.86fcc7af3e.js"
+  },
+  "_utils/wxShare.js": {
+    "hash": "d0884f1f709d3639c9e8dfb611ad36e7",
+    "distname": "_utils/wxShare.d0884f1f70.js"
+  },
+  "app/about.js": {
+    "hash": "a85fb58a2ca9c43fa6f8fc607203b409",
+    "distname": "app/about.a85fb58a2c.js"
+  },
+  "app/addressAdd.js": {
+    "hash": "9859474214772ee422bc9100ede50c87",
+    "distname": "app/addressAdd.9859474214.js"
+  },
+  "app/addressEdit.js": {
+    "hash": "b4aa297f4d954322b564fd9dd087f320",
+    "distname": "app/addressEdit.b4aa297f4d.js"
+  },
+  "app/addressList.js": {
+    "hash": "9c715f5c305b12a65a75960d4b95266f",
+    "distname": "app/addressList.9c715f5c30.js"
+  },
+  "app/bouns.js": {
+    "hash": "d13229b9675d003d9fcf0124f979b44c",
+    "distname": "app/bouns.d13229b967.js"
+  },
+  "app/brands.js": {
+    "hash": "8a449972d45d84fb63bfa39cefd692df",
+    "distname": "app/brands.8a449972d4.js"
+  },
+  "app/buildDataUrl.js": {
+    "hash": "8d9c8039b79f70443c463ce3ce33b1a7",
+    "distname": "app/buildDataUrl.8d9c8039b7.js"
+  },
+  "app/buyStep1.js": {
+    "hash": "58ad734097885a2b1a48695af2765d47",
+    "distname": "app/buyStep1.58ad734097.js"
+  },
+  "app/cartList.js": {
+    "hash": "30a3a7b14521aee56b102c1deee98132",
+    "distname": "app/cartList.30a3a7b145.js"
+  },
+  "app/detail.js": {
+    "hash": "3acfc23eb30639f88dca92e4afa7e200",
+    "distname": "app/detail.3acfc23eb3.js"
+  },
+  "app/download.js": {
+    "hash": "e0bde4f6f8805b04302fb4fe56437ee1",
+    "distname": "app/download.e0bde4f6f8.js"
+  },
+  "app/findpwd.js": {
+    "hash": "5a5c09eb327bf00609c1574b893aec2e",
+    "distname": "app/findpwd.5a5c09eb32.js"
+  },
+  "app/goodsinfo.js": {
+    "hash": "7455bb731864550f401290db182457ab",
+    "distname": "app/goodsinfo.7455bb7318.js"
+  },
+  "app/index.js": {
+    "hash": "8589b0de1192f86d943f8c9964e68dfa",
+    "distname": "app/index.8589b0de11.js"
+  },
+  "app/list.js": {
+    "hash": "54bd79689fc20f4e3075f1d6a602fd71",
+    "distname": "app/list.54bd79689f.js"
+  },
+  "app/login.js": {
+    "hash": "05f315009816e7e52451677a99b4698e",
+    "distname": "app/login.05f3150098.js"
+  },
+  "app/meizu.js": {
+    "hash": "617d781a86d1b3fecc860c74dff433ae",
+    "distname": "app/meizu.617d781a86.js"
+  },
+  "app/member.js": {
+    "hash": "a6487713c94fe7522e96c79959eccc7f",
+    "distname": "app/member.a6487713c9.js"
+  },
+  "app/myBounsList.js": {
+    "hash": "815c6de6b703190302c053bc77d71fcb",
+    "distname": "app/myBounsList.815c6de6b7.js"
+  },
+  "app/myEnvelopes.js": {
+    "hash": "c7be393f329ef403f638e983966d5065",
+    "distname": "app/myEnvelopes.c7be393f32.js"
+  },
+  "app/myShareBouns.js": {
+    "hash": "b67a371f749195213684ee764193995d",
+    "distname": "app/myShareBouns.b67a371f74.js"
+  },
+  "app/orderDetail.js": {
+    "hash": "04b50b829f1adfc9807ca29681184877",
+    "distname": "app/orderDetail.04b50b829f.js"
+  },
+  "app/orderList.js": {
+    "hash": "2cc337f41f23fdd27bda5c1e150d69ff",
+    "distname": "app/orderList.2cc337f41f.js"
+  },
+  "app/payOk.js": {
+    "hash": "f940d285a6130ba2b219f518b8462093",
+    "distname": "app/payOk.f940d285a6.js"
+  },
+  "app/register.js": {
+    "hash": "ddec5da730713258838965d238fdaa25",
+    "distname": "app/register.ddec5da730.js"
+  },
+  "app/shareBouns.js": {
+    "hash": "466c94eb2d814b129c886022b2e30ec5",
+    "distname": "app/shareBouns.466c94eb2d.js"
+  },
+  "app/shareEnvelopes.js": {
+    "hash": "7413cc10618af97bedbac6edd0784092",
+    "distname": "app/shareEnvelopes.7413cc1061.js"
+  },
+  "app/timer.js": {
+    "hash": "bc12769addc99717ba4775ea24853b02",
+    "distname": "app/timer.bc12769add.js"
+  },
+  "piwik.js": {
+    "hash": "c3c75134d1d749909cbc3159d372476d",
+    "distname": "piwik.c3c75134d1.js"
+  },
+  "require_cfg.js": {
+    "hash": "bc2ec214784de619ac40b29cfc027f99",
+    "distname": "require_cfg.bc2ec21478.js"
+  },
+  "vendor/Zepto/zepto.js": {
+    "hash": "de47cb533b8490a3800288bf949eb295",
+    "distname": "vendor/Zepto/zepto.de47cb533b.js"
+  },
+  "vendor/require/require.js": {
+    "hash": "0cdf9dafdd11e1b7bf3271c6682c5a50",
+    "distname": "vendor/require/require.0cdf9dafdd.js"
+  },
+  "vendor/smcore/smcore.js": {
+    "hash": "2d44d2e054c4f2d7d3b3f15de338e635",
+    "distname": "vendor/smcore/smcore.2d44d2e054.js"
+  },
+  "vendor/template/template.js": {
+    "hash": "2486f94ed03782ead6d85692d11b89d5",
+    "distname": "vendor/template/template.2486f94ed0.js"
+  },
+  "vendor/underscore/underscore.js": {
+    "hash": "8723d0be75d147cd7cd095721996b0f8",
+    "distname": "vendor/underscore/underscore.8723d0be75.js"
+  }
+}

@@ -1,6 +1,6 @@
 {
-    "env": "dev",
-    "secret": "ShenBa_H5Site_so4id1fnjj",
+    "env": "local",
+    "secret": "ShenBa_H5Site_o4i&d1@2fnj",
     "db": {
         "type": "mysql",
         "host": "localhost",
@@ -10,12 +10,11 @@
     },
     "tpl": {
         "isMinify": false,
-        "path": "./views",
-        "suffix": ".html"
+        "path": "./views"
     },
     "domain": {
         "global": "shenba.com",
-        "cdn": "mstatics.shenba.com",
+        "static": "mstatics.shenba.com",
         "img": "img.shenba.com",
         "pcApi": "pc.api.shenba.com",
         "itemApi": "item.api.shenba.com",
